@@ -1,4 +1,4 @@
-# Administrative related document of the open-source team at :probabl.
+# Administrative documents of the open-source at :probabl.
 
 ## Bi-weekly meetings
 
