@@ -1,8 +1,5 @@
-====================================================================
-Administrative related document of the open-source team at :probabl.
-====================================================================
+# Administrative related document of the open-source team at :probabl.
 
-Community meetings
-------------------
+## Bi-weekly meetings
 
 * ``meeting_notes`` includes the notes from our bi-weekly meetings.
